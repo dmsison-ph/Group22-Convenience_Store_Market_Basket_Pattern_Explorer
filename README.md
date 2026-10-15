@@ -716,3 +716,9 @@ It contains:
 **Group 22 - Convenience Store Market Basket Pattern Explorer**
 
 Developed as an academic project using **KNIME, Python, Apriori, association-rule mining, and Streamlit**.
+
+## Presentation Video
+
+The Group 22 Audio-Visual Presentation (AVP) is available in:
+
+`video/Group_22_AVP.mp4`
