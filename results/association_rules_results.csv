@@ -1,0 +1,6 @@
+antecedents,consequents,support,confidence,lift,support_count
+Instant Noodles,Eggs,0.16,1.0,3.571428571428571,8
+Corned Beef,Eggs,0.1,1.0,3.571428571428571,5
+Hotdog,Bread,0.1,1.0,2.380952380952381,5
+Peanut Butter,Bread,0.1,1.0,2.380952380952381,5
+Milk,Bread,0.1,1.0,2.380952380952381,5

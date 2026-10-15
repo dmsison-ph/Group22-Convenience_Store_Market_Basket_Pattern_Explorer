@@ -1,0 +1,22 @@
+itemsets,support,support_count
+Bread,0.42,21
+Soft Drink,0.28,14
+Eggs,0.28,14
+Chips,0.26,13
+Biscuits,0.2,10
+Coffee,0.2,10
+"Chips, Soft Drink",0.18,9
+Chocolate,0.16,8
+Instant Noodles,0.16,8
+"Eggs, Instant Noodles",0.16,8
+"Bread, Coffee",0.14,7
+"Biscuits, Coffee",0.12,6
+Hotdog,0.1,5
+Milk,0.1,5
+Peanut Butter,0.1,5
+Corned Beef,0.1,5
+"Bread, Hotdog",0.1,5
+"Bread, Peanut Butter",0.1,5
+"Bread, Milk",0.1,5
+"Chips, Chocolate",0.1,5
+"Corned Beef, Eggs",0.1,5
